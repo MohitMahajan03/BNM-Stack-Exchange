@@ -1,0 +1,40 @@
+body
+{
+	background-color: #2C3333;
+}
+.form
+{
+	color: #2C3333;
+	margin: auto;
+	margin-top: 170px;
+	padding: 50px;
+	text-align: center;
+	display: flex;	
+	width: fit-content;
+	/* border-width: 5px;
+	border-color: #000000 solid;  */
+	border: #222 3px solid;
+	border-radius: 20px;
+	background-color:#CBE4DE;
+	box-shadow: 5px 5px 5px #53533d;
+}
+.email
+{
+	padding: 10px;
+}
+span{
+	margin-bottom: 20px;
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+input{
+    margin-bottom: 20px;
+    width: 200px;
+    height:30px;
+    border-radius: 10px;
+}
+
+#signup{
+    width: 70px;
+    height: 40px;
+}
